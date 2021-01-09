@@ -1,0 +1,102 @@
+ #Bgdiv1{ 
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(0,0,0,0.7)) ,url(./xu-huong-su-dung-hinh-anh-thiet-ke-webiste.jpg) ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+}  
+
+
+
+.Hr{
+    background-color: purple;
+}
+#nav{
+    background-color: aquamarine;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
+.textnav{
+    font-size: 30px;
+    color: brown;
+    padding: 20px 60px;
+    display: inline-block;
+}
+#anhcoder{
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(0,0,0,0.7)).url(./anhcoder.jpg);
+    height: 100px;
+}
+#header{
+    background:turquoise;
+    color: white;
+}
+#img1{
+    
+    width: 200px;
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid rgb(97, 99, 92);
+} 
+#name{
+    font-weight: bold;
+    letter-spacing: 0.5em;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#underline{
+    width: 333px;
+    height: 7px;
+    background: white;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#web{
+    letter-spacing: 0.5em;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#contacts{
+    padding: 10px;
+    font-weight: bold;
+    background:linear-gradient(rgba(0, 0, 0,0.7),rgba(235, 227, 227, 0.7));
+}
+#contact1{
+    margin: 20px;
+}
+#skill{
+    padding: 10px;
+    font-weight: bold;
+    background:linear-gradient(rgba(0, 0, 0,0.7),rgba(235, 227, 227, 0.7));
+}
+#skill1{
+    margin: 10px;
+}
+#exp{
+    width: 1200px;
+    padding: 10px;
+    font-weight: bold;
+    background:linear-gradient(rgba(0, 0, 0,0.7),rgba(235, 227, 227, 0.7));
+}
+#exp1{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 4fr ;
+}
+#tex{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#texx{
+    
+    font-weight: bold;
+}
+#img5{
+    background: linear-gradient(rgba(0, 0, 0,0.7),rgba(235, 227, 227, 0.7));
+}
+#year{
+    margin-left: 90px;
+}
+#exp4{
+    padding-left: 90px;    
+}
