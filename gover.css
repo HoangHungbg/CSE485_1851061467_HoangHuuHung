@@ -1,0 +1,28 @@
+body {
+    background-color: #232b2b;
+}
+#title{
+    background-color: #232b2b;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    height: 50px;
+}
+#a{
+    background-color: #232b2b;
+    height: 60px;
+}
+#hh{
+    background-color: #dc3d24;
+    font-size: 25px;
+}
+#hr{
+    background-color: white;
+}
+#content{
+    color: white;
+    font-size: 200px;
+    text-align: center;
+    font-family: 'Yusei Magic';
+
+}
